@@ -1,2 +1,3 @@
 #Greetings
-print("Ola e adeus")
+print("ola")
+print("adeus")
